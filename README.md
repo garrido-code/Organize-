@@ -45,27 +45,7 @@ Este projeto visa o desenvolvimento de um aplicativo mobile chamado **Organize+*
 ### Integrações
 - Google Calendar API para sincronização de calendários.
 - FCM (Firebase Cloud Messaging) para notificações push.
-
----
-
-## 4. Cronograma
-| Fase                     | Descrição                            | Prazo     |
-|--------------------------|----------------------------------------|-----------|
-| Planejamento             | Reunião inicial, escopo e requisitos  | 1 semana  |
-| Design                   | Criação de wireframes e protótipos  | 2 semanas |
-| Desenvolvimento Back-end | Configuração do servidor e banco     | 3 semanas |
-| Desenvolvimento Front-end| Implementação das telas e lógica    | 4 semanas |
-| Testes                   | Verificação de bugs e ajustes       | 2 semanas |
-| Lançamento               | Publicação na loja de apps           | 1 semana  |
-
----
-
-## 5. Entregas Esperadas
-1. Protótipo funcional do app com todas as funcionalidades descritas.
-2. Documentação técnica detalhada.
-3. Código-fonte organizado e comentado.
-4. Publicação do app Organize+ na Google Play Store e na App Store.
-
+  
 ---
 
 ## 6. Considerações Finais
